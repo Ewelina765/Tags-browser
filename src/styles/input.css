@@ -1,0 +1,10 @@
+.input-div {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.input {
+  border: 2px solid black;
+}

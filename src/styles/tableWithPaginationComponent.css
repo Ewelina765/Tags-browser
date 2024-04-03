@@ -1,0 +1,21 @@
+.pagination-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+  align-items: center;
+}
+
+.pagination {
+  display: flex;
+  justify-content: end;
+  width: 50%;
+}
+
+.loading,
+.error {
+  padding: 40px;
+}
+.table-div {
+  width: 50%;
+}

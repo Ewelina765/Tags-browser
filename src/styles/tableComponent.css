@@ -1,0 +1,39 @@
+.table-container {
+  width: 100%;
+}
+
+.table {
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+.table-head {
+  background-color: #cf691b;
+  display: flex;
+  border-bottom: 2px solid black;
+}
+
+.table-cell {
+  align-items: center;
+  width: 33.3333%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.count-cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sort-icon {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.table-row {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
