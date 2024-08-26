@@ -1,3 +1,12 @@
+# Tags Browser
+
+## Project Description
+
+**Tags Browser** is a web application that allows users to browse and search through a collection of tags fetched from a remote API. The application features an intuitive interface with pagination to handle large sets of tags efficiently and a search functionality to quickly find specific tags.
+
+## Main Technologies
+Storybook, React, TypeScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
